@@ -1,1 +1,3 @@
 dritte erweiterung
+
+addon3 kann mit zweiter version von main1 funktionieren
